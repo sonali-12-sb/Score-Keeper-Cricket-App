@@ -34,8 +34,9 @@ Each button has functionality.
 ✔ After finishing the game, clicking the **Reset** button starts a new game with a fresh scoreboard.  
 
 ### 🖼️ **Screenshots**  
-<img src="Review/IMG_20250331_000120.jpg" width="300">  
-<img src="screenshots/screen2.png" width="400">  
+
+<img src="Review/IMG_20250331_000120.jpg" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="Review/IMG_20250331_000151.jpg" width="300">   
 
 ---
 
