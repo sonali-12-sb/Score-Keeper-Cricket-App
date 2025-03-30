@@ -41,6 +41,6 @@ Each button has functionality.
 
 ## ⭐ Review from Udacity  
 <img src="Review/portal review.png" width="700">  
-<img src="screenshots/review.png" width="200">  
+<img src="Review/cricketAppmailReview.jpg" width="200">  
 
 ---
