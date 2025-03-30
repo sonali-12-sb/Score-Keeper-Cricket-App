@@ -40,12 +40,7 @@ Each button has functionality.
 ---
 
 ## ⭐ Review from Udacity  
-<img src="screenshots/review.png" width="700">  
+<img src="Review/portal review.png" width="700">  
 <img src="screenshots/review.png" width="200">  
 
 ---
-
-## 📥 Installation & Usage  
-1. **Clone the repository**:  
-   ```sh
-   git clone https://github.com/yourusername/your-repository.git
